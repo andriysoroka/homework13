@@ -1,0 +1,1 @@
+function isEven(numb) { return numb % 2 !== 0; }
