@@ -9,3 +9,5 @@ function smallest() {
 		return Math.min(acc, cur);
 	}]);
 }
+//module.exports = smallest;
+//module.exports = largest;
